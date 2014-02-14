@@ -62,7 +62,7 @@
 		<arg line="${source}
 			xml
 			codesize,design,naming,unusedcode
-			--reportfile ${basedir}/build/logs/pmd.xml 
+			--reportfile ${basedir}/build/logs/pmd.xml" />
 		</exec>
 	</target>
 
