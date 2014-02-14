@@ -1,0 +1,6 @@
+AuthUserFile	/etc/httpd/htpasswd/.htpasswd-sf14base.dev.developpers.info
+AuthGroupFile	/dev/null
+AuthName	"Please Enter Your ID and Password"
+AuthType	Basic
+Require		valid-user
+
